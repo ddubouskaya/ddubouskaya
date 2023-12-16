@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 <ul>
-<li>😌 Finished <a href="">Functional software testing course by Artsiom Rusau</a>, <a href="https://drive.google.com/file/d/1G-ZKBEQzdtEUBhCvaCg8XbiIGPbvgKSX/view?usp=drive_link">Functional software testing course at IT academy</a></li>
+<li>🧠 Finished <a href="">Functional software testing course by Artsiom Rusau</a>, <a href="https://drive.google.com/file/d/1G-ZKBEQzdtEUBhCvaCg8XbiIGPbvgKSX/view?usp=drive_link">Functional software testing course at IT academy</a></li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1zAk37doS2hGbEmCNMsR7nl500WE2SWq3/view?usp=sharing">resume</a></li>
 <li> 📝 Most of my study cases are available on <a href="https://github.com/ddubouskaya">Github</a></li> </li></li>
 </ul>
@@ -42,7 +42,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
   </div>
 
 ---
-### 📁 Тестовая документация:
+### 📁 Testing documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -55,7 +55,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Web apllication testing :
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -65,7 +65,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Mobile application testing:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -78,7 +78,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Work with Databases:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -87,7 +87,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Work with code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
