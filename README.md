@@ -34,7 +34,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/darya-dubouskaya-8090182a0" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
     </a>
     <a href="https://t.me/darybaryyy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
