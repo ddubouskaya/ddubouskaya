@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ddubouskaya/ddubouskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,19 +36,6 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
   </div>
 
 ---
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Bash для тестировщика &lpar;QA Engineer&rpar;. Полный курс](https://www.youtube.com/watch?v=CVJw3rCw_Qc)
-- [Разбор резюме тестировщиков с хедхантера](https://www.youtube.com/watch?v=FnK379DsOsk)
-- [КАК ПРОЙТИ ИСПЫТАТЕЛЬНЫЙ СРОК?](https://www.youtube.com/watch?v=Gz3F48tc8nk)
-- [Тестировщик с нуля / Урок 0. Как стать тестировщиком за один курс?](https://www.youtube.com/watch?v=yvPtNCvx_jM)
-- [НЕТВОРКИНГ В АЙТИ, или КАК НАЙТИ РАБОТУ В IT ПО СВЯЗЯМ?](https://www.youtube.com/watch?v=KvQ4wUo7TRY)
-<!-- YOUTUBE:END -->
-
----
-
 ### 📁 Тестовая документация:
 
 <div>
@@ -106,4 +91,3 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 </div>
 
 ---
->>>>>>> eff0d64be8b80f90d6d5628e3df7550aeb3354a9
