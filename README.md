@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
-# 👋 Hello, my name is Darya and I'm a software tester <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">!
+
+# 👋 Hello, my name is Darya and I'm a software tester <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">
 
 ---
 
@@ -24,6 +24,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 <ul>
 <li>😌 Finished <a href="">Functional software testing course by Artsiom Rusau</a></li>
       <li><a href="https://drive.google.com/drive/u/0/my-drive">Functional software testing course at IT academy</a></li>
+<li> 📝 Most of my study cases are available on <a href="https://github.com/ddubouskaya">Github</a></li> </li></li>
 </ul>
 
 - 📫 Contact information: [![LinkedIn Badge](https://img.shields.io/badge/-@daryadubouskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-dubouskaya-8090182a0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:darya.dybovskaya.96@gmail.com)
