@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
-- 📫 Contact information: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-dubouskaya-8090182a0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:darya.dybovskaya.96@gmail.com)
+- 📫 Contact information: [![LinkedIn Badge](https://img.shields.io/badge/-@daryadubouskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-dubouskaya-8090182a0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:darya.dybovskaya.96@gmail.com)
 
 ---
 ### 🤝 Social networks:
