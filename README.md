@@ -7,9 +7,10 @@
 I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 <ul>
+<li>🌍 Based in Poland</li> 
 <li>🧠 Finished <a href="">Functional software testing course by Artsiom Rusau</a>, <a href="https://drive.google.com/file/d/1G-ZKBEQzdtEUBhCvaCg8XbiIGPbvgKSX/view?usp=drive_link">Functional software testing course at IT academy</a></li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1zAk37doS2hGbEmCNMsR7nl500WE2SWq3/view?usp=sharing">resume</a></li>
-<li> 📝 Most of my study cases are available on <a href="https://github.com/ddubouskaya">Github</a></li> </li></li>
+<li>🖥️ See my portfolio here <a href="https://github.com/ddubouskaya">Github</a></li> 
 </ul>
 
 - 📫 Contact information: [![LinkedIn Badge](https://img.shields.io/badge/-@daryadubouskaya-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-dubouskaya-8090182a0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:darya.dybovskaya.96@gmail.com)
@@ -66,8 +67,8 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 ### 💾 Work with Databases:
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -82,4 +83,4 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 </div>
 
 ---
-### Test Artifacts
+### 🚀 Test Artifacts
