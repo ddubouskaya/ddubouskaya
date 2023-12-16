@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 <ul>
-<li>😌 Finished <a href="">Functional software testing course by Artsiom Rusau</a></li>
-      <li><a href="https://drive.google.com/drive/u/0/my-drive">Functional software testing course at IT academy</a></li>
+<li>😌 Finished <a href="">Functional software testing course by Artsiom Rusau</a>, <a href="https://drive.google.com/file/d/1G-ZKBEQzdtEUBhCvaCg8XbiIGPbvgKSX/view?usp=drive_link">Functional software testing course at IT academy</a></li>
 <li> 📝 Most of my study cases are available on <a href="https://github.com/ddubouskaya">Github</a></li> </li></li>
 </ul>
 
