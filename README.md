@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there 👋
 
 <!--
@@ -16,27 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =======
-# Привет, меня зовут Артем!
+# 👋 Hello, my name is Darya and I'm a software tester <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">!
 
 ---
 
-### 👨‍💻 Обо мне:
+### 😄 About me:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал Artsiom Rusau QA Life на [YouTube](https://youtube.com/@rusau) с аудиторией более 160.000 человек. За время преподавательской деятельности занимался обучением более 160000 студентов на разных платформах.
+I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://artsiomrusau.com/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
+- 📫 Contact information: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-dubouskaya-8090182a0) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:darya.dybovskaya.96@gmail.com)
 
 ---
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/darya-dubouskaya-8090182a0" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/darybaryyy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
