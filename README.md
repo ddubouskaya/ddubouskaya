@@ -35,15 +35,15 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 ### 🚀 My Portfolio
 
  <ul>
-<li>  <a href="">Some Test Design Techniques </a>  </li>   
-<li>  <a href="">Creation of Testing Documentation</a>  </li>
-<li>  <a href=""> Web-application Testing </a>   </li>
-<li> <a href="">API-testing (REST and SOAP in Postman)</a>   </li>
-<li>  <a href="">Work with Data Bases</a>  </li>
-<li>  <a href=""> Mobile app testing</a>   </li>
-<li> <a href="">Traffic interception with Charles Proxy</a>  </li>
-<li> <a href=""> Bash </a>  </li>
-<li> <a href=""> Git </a> </li>
+<li>  <a href="https://github.com/ddubouskaya/Test_Design_Techniques">Some Test Design Techniques </a>  </li>   
+<li>  <a href="https://github.com/ddubouskaya/Testing_Documentation_Creation">Creation of Testing Documentation</a>  </li>
+<li>  <a href="https://github.com/ddubouskaya/Web_App_Testing"> Web-application Testing </a>   </li>
+<li> <a href="https://github.com/ddubouskaya/API_Testing">API-testing (REST and SOAP in Postman)</a>   </li>
+<li>  <a href="https://github.com/ddubouskaya/DataBases">Work with Data Bases</a>  </li>
+<li>  <a href="https://github.com/ddubouskaya/Mobile-App-Testing"> Mobile app testing</a>   </li>
+<li> <a href="https://github.com/ddubouskaya/CharlesProxy">Traffic interception with Charles Proxy</a>  </li>
+<li> <a href="https://github.com/ddubouskaya/Bash"> Bash </a>  </li>
+<li> <a href="https://github.com/ddubouskaya/git"> Git </a> </li>
 </ul>  
 
 ---
