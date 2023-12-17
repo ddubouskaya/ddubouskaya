@@ -7,7 +7,7 @@
 
 ### 😄 About me:
 
-I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area.  I will be happy to become a part of your team. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
+I'm looking for a job as a Software Tester. I want to develop among smart and interesting people in a promising area. I will be useful thanks to my critical thinking,  attention to detail, hard work, and experience of work in the interesting and difficult area as radiation chemistry and agriculture chemistry. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
 <ul>
 <li>🌍 Based in Poland</li> 
