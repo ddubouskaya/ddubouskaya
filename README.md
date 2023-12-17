@@ -32,7 +32,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 
 ---
 
-### 🚀 My Portfolio
+### 🚀 Test Artefacts
 
  <ul>
 <li>  <a href="https://github.com/ddubouskaya/Test_Design_Techniques">Some Test Design Techniques </a>  </li>   
