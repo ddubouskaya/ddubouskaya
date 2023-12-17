@@ -1,5 +1,7 @@
 # 👋 Hello, my name is Darya and I'm a software tester <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25">
-
+<div id="header" align="center">
+<img src="https://gifdb.com/images/high/cute-girl-happily-working-hard-zkn3gigd5zktg85w.webp" width="205"/>
+</div>
 ---
 
 ### 😄 About me:
