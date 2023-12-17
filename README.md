@@ -31,6 +31,22 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
   </div>
 
 ---
+
+### 🚀 My Portfolio
+
+ <ul>
+<li>  <a href="">Some Test Design Techniques </a>  </li>   
+<li>  <a href="">Creation of Testing Documentation</a>  </li>
+<li>  <a href=""> Web-application Testing </a>   </li>
+<li> <a href="">API-testing (REST and SOAP in Postman)</a>   </li>
+<li>  <a href="">Work with Data Bases</a>  </li>
+<li>  <a href=""> Mobile app testing</a>   </li>
+<li> <a href="">Traffic interception with Charles Proxy</a>  </li>
+<li> <a href=""> Bash </a>  </li>
+<li> <a href=""> Git </a> </li>
+</ul>  
+
+---
 ### 📁 Testing documentation:
 
 <div>
@@ -87,4 +103,4 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 </div>
 
 ---
-### 🚀 My Portfolio
+
