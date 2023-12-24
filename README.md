@@ -12,7 +12,7 @@ I'm looking for a job as a Software Tester. I want to develop among smart and in
 <ul>
 <li>🌍 Based in Poland</li> 
 <li>🧠 Finished <a href="">Functional software testing course by Artsiom Rusau</a>
-<li>📙 Check out my <a href="https://docs.google.com/document/d/1lLwRbI4TMc6rfWMmyydUAyZO6ih9ZAT9ks9o0jy-ip8/edit?usp=sharing">resume</a></li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/18L_VNj7-Pyue6X5EY2LcD7UbgSSz1uiG/view?usp=sharing">resume</a></li>
 <li>🖥️ See my portfolio below</li> 
 </ul>
 
